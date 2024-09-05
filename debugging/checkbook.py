@@ -1,5 +1,6 @@
+#!/usr/bin/python3
 class Checkbook:
-    def __init__(self):
+     def __init__(self):
         """
         Initializes a new Checkbook with a balance of 0.0.
         """
